@@ -5,10 +5,10 @@ This will also serve as a personal reference of basic functions to assist with i
 Each specific excercise (number and subject matter) references https://www.w3resource.com/csharp-exercises/basic/index.php but may be modified
 
 
-Work in Progress, implemented through Exercise11
+
 
 The functionality of each exercise is listed below:
-Exercise1: A C# program to print "Hello, [my name]"
+Exercise1: A C# program to print "Hello, [your name]"
 Exercise2: A C# program to print the sum of two numbers.
 Exercise3: A C# program to print the result of dividing two numbers.
 Exercise4: A C# program to print the result of the specified operations

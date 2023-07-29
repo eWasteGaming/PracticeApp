@@ -8,7 +8,7 @@ namespace PracticeApp
         {
             //To test implementation of any excercise, use ExerciseN.solve(), where N is the number of the excercise to test
 
-            Exercise12.solve();
+            
 
         }
     }

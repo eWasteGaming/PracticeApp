@@ -8,7 +8,7 @@ namespace PracticeApp.Exercises
         {
             //A C# program to print "Hello, [my name]"
 
-            Console.WriteLine("Hello, Isaac!");
+            
 
         }
     }
